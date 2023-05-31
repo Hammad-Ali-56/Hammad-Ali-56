@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hammad-Ali-56
-- 👀 I’m interested in Mechatronics Engineering and learing python.
+- 👀 I’m pursuing Bachelors in Computer Science and learing python.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on making projects.
 - 📫 How to reach me through email (hammadali.himself@gmail.com)
