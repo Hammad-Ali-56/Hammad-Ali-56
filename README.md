@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hammad-Ali-56
 - 👀 I’m pursuing Bachelors in Computer Science and learing python.
-- 🌱 I’m currently learning Python.
+- 🌱 I am having experience in Python, C and JAVA.
 - 💞️ I’m looking to collaborate on making projects.
 - 📫 How to reach me through email (hammadali.himself@gmail.com)
 
